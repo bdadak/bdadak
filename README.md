@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bdadak
+- 👀 I’m interested in learning everything from hammering a nail to space 
+- 🌱 I’m currently building my own software that will be used for many things in Geophysics and Geology.
+- 💞️ I’m looking to collaborate on apps that will solve daily faced challenges, such as service app.
